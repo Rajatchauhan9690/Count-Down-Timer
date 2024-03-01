@@ -1,0 +1,26 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-image: url('https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: cover;
+  color: whitesmoke;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: yellow;
+  margin-bottom: 20px;
+}
+h2{
+  color: yellow;
+}
+#set-date-time, #countdown {
+  background-color: black;
+  padding: 10px;
+  border-radius: 20px;
+}
